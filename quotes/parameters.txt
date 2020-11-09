@@ -1,0 +1,11 @@
+NAME=quotes
+NAMESPACE=burakcanredhat-quotes                                                                                           
+PHP_VERSION=7.3
+SOURCE_REPOSITORY_URL=https://github.com/burakcansizoglu/DO288-apps.git
+SOURCE_REPOSITORY_REF=master
+CONTEXT_DIR=quotes
+APPLICATION_DOMAIN=apps.eu45.prod.nextcle.com
+DATABASE_ENGINE=mysql
+DATABASE_NAME=quotes-db
+DATABASE_USER=quote-user
+DATABASE_PASSWORD=quotes-password
